@@ -4,3 +4,4 @@ spillermarker = you get a blue circel a round you when you speak just put the re
 
 sigtecorn = your crosshairs will get removed
 
+blip get remowed even if you use trainer lie lambda
